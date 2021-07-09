@@ -1,5 +1,4 @@
 import turtle
-import threading
 
 window = turtle.Screen()
 window.bgcolor("black")
